@@ -1,1 +1,1 @@
-FROM calcom.docker.scarf.sh/calcom/cal.com
+FROM docker.io/calcom/cal.com:latest
